@@ -5,8 +5,6 @@
 #+HTML_HEAD: <meta property="og:image" content="https://qiniu.imesu.co/rm/defaults/fly-bird.png?imageView2/1/w/100/h/100/format/webp">
 #+MACRO: imglink @@html:<a target="_blank" href="$2"><img width="100" src="$1" /></a>@@
 
-# [[http://d-dev.vm.uqugu.com/Notes/personal/public/fee/house-fdjy1/12.pub.html][链接地址:internal]]
-
 #+begin_comment
 电表
 https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Felec2401.jpg&mode=grid&download=1&inline=1x
