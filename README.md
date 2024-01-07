@@ -8,4 +8,4 @@
 
 电水费
 
-![electricity-water](./images/preview-electricity-water.png)
+<img alt="electricity-water" title="electricity-water" src="./images/preview-electricity-water.png" width="400px" />
