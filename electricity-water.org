@@ -1,0 +1,51 @@
+#+TITLE: 能耗费用 202312～20240102
+#+DATE: <2024-01-02 Tue>
+#+EXPORT_FILE_NAME: 2401.pub.html
+#+OPTIONS: toc:nil date:nil num:nil author:nil html-postamble:nil
+#+HTML_HEAD: <meta property="og:image" content="https://qiniu.imesu.co/rm/defaults/fly-bird.png?imageView2/1/w/100/h/100/format/webp">
+#+MACRO: imglink @@html:<a target="_blank" href="$2"><img width="100" src="$1" /></a>@@
+
+# [[http://d-dev.vm.uqugu.com/Notes/personal/public/fee/house-fdjy1/12.pub.html][链接地址:internal]]
+
+#+begin_comment
+电表
+https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Felec2401.jpg&mode=grid&download=1&inline=1x
+
+水表
+https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Fwater2401.jpg&mode=grid&download=1&inline=1
+#+end_comment
+
+** 电表数据
+:PROPERTIES:
+:END:
+
+单价: 1元/度
+
+| 时间 |                                                                                                                                                                                                                                                                        240102 | 2312                                                                                                                                                                                                                                                                          |
+|------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 图片 | {{{imglink(https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Felec2401.jpg&mode=grid&download=1&inline=1x, https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Felec2401.jpg&mode=grid&download=1&inline=1x)}}} | {{{imglink(https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Felec2312.png&mode=grid&download=1&inline=1x, https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Felec2312.png&mode=grid&download=1&inline=1x)}}}  |
+| 读数 |                                                                                                                                                                                                                                                                         13303 | 13030                                                                                                                                                                                                                                                                         |
+| 用量 |                                                                                                                                                                                                                                                                           273 | -                                                                                                                                                                                                                                                                             |
+| 金额 |                                                                                                                                                                                                                                                                           273 | -                                                                                                                                                                                                                                                                             |
+
+
+** 水表数据
+
+单价: 4元/吨
+
+| 时间 |                                                                                                                                                                                                                                                                        240102 | 2312                                                                                                                                                                                                                                                                            |
+|------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 图片 | {{{imglink(https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Fwater2401.jpg&mode=grid&download=1&inline=1, https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Fwater2401.jpg&mode=grid&download=1&inline=1)}}} | {{{imglink(https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Fwater2312.png&mode=grid&download=1&inline=1x, https://s-pan.s.imesu.co/wl/?id=CzjYOfVyjAWN7Hrzj3JQbuXfuX9zBMXR&path=diansuifei%2Fwater2312.png&mode=grid&download=1&inline=1x)}}} |
+| 读数 |                                                                                                                                                                                                                                                                           570 | 566                                                                                                                                                                                                                                                                             |
+| 用量 |                                                                                                                                                                                                                                                                             4 | -                                                                                                                                                                                                                                                                               |
+| 金额 |                                                                                                                                                                                                                                                                            16 | -                                                                                                                                                                                                                                                                               |
+
+** 202312～20240102 综合
+
+| 项目 | 电表 | 水表 |     |
+|------+------+------+-----|
+| 用量 |  273 |    4 |     |
+| 单价 |    1 |    4 |     |
+| 金额 |  273 |   16 | 289 |
+
+合计: 273 + 16 = 289
